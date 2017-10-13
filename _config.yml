@@ -20,3 +20,5 @@ markdown: kramdown
 
 # Google Services
 google_analytics: UA-90204097-1
+
+theme: jekyll-theme-minimal
