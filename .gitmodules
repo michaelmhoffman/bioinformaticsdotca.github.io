@@ -33,7 +33,7 @@
 	url = https://github.com/bioinformaticsdotca/Microbiome_2017.git
 [submodule "Pathways_2017"]
 	path = Pathways_2017
-	url = https://github.com/bioinformaticsdotca/Pathways_2017.git
+	url = https://github.com/michaelmhoffman/Pathways_2017.git
 [submodule "CloudComp_2017"]
 	path = CloudComp_2017
 	url = https://github.com/bioinformaticsdotca/CloudComp_2017.git
